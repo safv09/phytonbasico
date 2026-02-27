@@ -19,3 +19,6 @@ class Enemigo:
 
     def atacar(self):
         print(f"{self._tipo_enemigo} ataca con un {self.ataque} de daño!!!")
+
+    def ataque_especial(self)
+        print("El enemigo no tiene ataque especial")
