@@ -5,5 +5,5 @@ class Ogro(Enemigo):
         super().__init__(tipo_enemigo='Ogro', puntos_energia=puntos_energia, ataque=ataque)
 
         def habla(self):
-            print("Ogro aplasta todo!!!")
+            print("Ogro aplasta todo!!!!")
             
